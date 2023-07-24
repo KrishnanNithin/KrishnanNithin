@@ -3,7 +3,7 @@
 I'm a high school senior interested in programming - specifically, data science and its applications on a wider scale. I'm most comfortable with Python, though I'm 
 also picking up a few other languages. As I learn more, I'll be putting up a variety of projectst on this page. 
 <br><br>
-Feel free to reach me via mail at skrishnannithin@gmail.com!
+Feel free to reach me via mail at nithinsk22@gmail.com!
 <br><br>
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
