@@ -1,6 +1,6 @@
 <p1> Hey there! I'm <b>Nithin Krishnan.</b> </p1> 
 <br><br>
-I'm a high school senior interested in programming - specifically, data science and its applications on a wider scale. I'm most comfortable with Python, though I'm 
+I'm a mathematics major, specializing in Data Science. I'm most comfortable with Python, though I'm 
 also picking up a few other languages. As I learn more, I'll be putting up a variety of projectst on this page. 
 <br><br>
 Feel free to reach me via mail at nithinsk22@gmail.com!
